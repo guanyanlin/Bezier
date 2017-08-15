@@ -41,4 +41,6 @@
     shapeLayer.borderWidth = 2.0;
     [self.subviews[0].layer addSublayer:shapeLayer];
 
+三、通过本项目实现自定义的坐标轴、折线图、柱状图、饼状图图形的绘制
 
+（主要通过贝塞尔曲线来手动绘制实现的基本功能）
